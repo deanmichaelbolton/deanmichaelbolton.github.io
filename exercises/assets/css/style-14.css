@@ -81,7 +81,8 @@ p {
 /* == FLEXBOX PARENT CONTAINER == */
 .container-flexbox { 
     display: flex; 
-    justify-content: space-between
+    justify-content: space-between;
+    flex-wrap: wrap
 }
 
   .bono {
@@ -122,3 +123,10 @@ p {
 .edge p,
 .larry h3,
 .larry p { color: #000 }
+
+/* === COLUMN WIDTH ON MOBILES === */
+@media (max-width: 767px) { 
+    .bono, .edge, .adam, .larry { 
+      width: 100%; 
+    }
+  }
