@@ -1,6 +1,6 @@
 
 /* Default font and colours */
-body { font-family: 'Rubik', sans-serif }
+body { font-family: 'Crimson', sans-serif }
 h1, h2, h3 { color: #222 }
 p, li { color: #403d50 }
 .bg-pastel-green { background-color: rgb(227,250,245) }
@@ -258,7 +258,7 @@ img.image-circle {
 .container-contact-form { 
 	text-align: center; 
 	background-color: #fff; 
-	border: solid 1px gray
+	border: solid 1px grey
 }
 
 /* Desktop */
