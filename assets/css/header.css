@@ -109,7 +109,7 @@
 
 /* Solid buttons */
 .container-btn .btn-solid:any-link {
-    background-color: #50e3c2; border-color:  #50e3c2; color: #222;
+    background-color: blue; border-color:  blue; color: #222;
 }
 
 .container-btn :is(.btn-solid:focus, .btn-solid:hover,.btn-solid:active) {

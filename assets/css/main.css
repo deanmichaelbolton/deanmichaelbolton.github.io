@@ -62,8 +62,8 @@ a.button:link, a.button:visited, a.button:hover, a.button:active {
 }
  
 a.button-solid:link, .button-solid:visited {
-    border-color: rgb(80,227,194);
-    background-color: rgb(80,227,194);
+    border-color:blue;
+    background-color: blue;
     color: #000;
 } 
  
@@ -358,7 +358,7 @@ img.image-circle {
 #contact-form #btn-submit { 
 	float: right; 
 	border: none; 
-    background-color: rgb(80,227,194);
+    background-color:blue;
     color: #000;
 	font-weight: bold;
     padding: 18px 28px;
